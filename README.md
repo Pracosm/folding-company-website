@@ -52,4 +52,5 @@ The site is deployed as a static project on **Vercel** — publishing is a push 
 
 ---
 
-*Designed and built by [Aakar Labs](aakarlabs.art).*
+*Designed and built by [AakarLabs
+](https://www.aakarlabs.art/)
