@@ -52,4 +52,4 @@ The site is deployed as a static project on **Vercel** — publishing is a push 
 
 ---
 
-*Designed and built by [Aakar Labs](mailto:subs@dvaitatech.com).*
+*Designed and built by [Aakar Labs](aakarlabs.art).*
